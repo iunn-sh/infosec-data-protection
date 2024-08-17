@@ -122,3 +122,13 @@ risk matrix
 監獄
 思想的呼吸空間
 
+---
+
+class: impact
+
+# Powered By
+
+|           |                                                                                       |
+| --------: | :------------------------------------------------------------------------------------ |
+| Markdown  | [sinedied/backslide](https://github.com/sinedied/backslide)                           |
+| Github    | [iunn-sh/infosec-data-protection](https://github.com/iunn-sh/infosec-data-protection) |
