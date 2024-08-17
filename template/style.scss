@@ -73,7 +73,7 @@ blockquote {
   opacity: .6;
   font-size: 0.8em;
   z-index: 2;
-  .no-counter & { display: none; }
+  .impact &, .full & .no-counter & { display: none; }
 }
 
 // Additions
