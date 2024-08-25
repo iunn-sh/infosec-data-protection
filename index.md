@@ -11,13 +11,13 @@ layout: true
 ---
 
 class: impact
-background-image: url(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXdmdTl2d2s3dnh2aGI0Nm1wYzJwZGlnZmUyZXVlbmN5aGFkdHlidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/47FfbwWohqZyjmWQD6/giphy.webp)
+background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg5OGYwdHVlb3VrZnQ2MXpmaTZjOWJ1cWt6Z2oxZHVwcnJiMWFnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l5JbspfwZ0yjHjlJ0K/giphy.webp)
 
 # {{title}}
 ## {{subtitle}}
 
 .small.right[
-Image by [SymmetryInChaos](https://giphy.com/symmetryinchaos) via [GIPHY](https://giphy.com/gifs/random-math-processing-47FfbwWohqZyjmWQD6)
+Image by [xponentialdesign](https://giphy.com/xponentialdesign) via [GIPHY](https://giphy.com/gifs/earth-planet-americas-l5JbspfwZ0yjHjlJ0K)
 ]
 
 ---
@@ -294,7 +294,8 @@ class: impact
 4. 海關按指紋
 5. 親友代領包裹
 6. 網路報稅
-7. （自由發揮）
+7. 高速公路ETC通行
+8. （自由發揮）
 
 角色/媒介/管道？
 
