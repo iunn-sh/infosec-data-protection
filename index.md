@@ -12,7 +12,7 @@ layout: true
 
 class: impact
 background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTg5OGYwdHVlb3VrZnQ2MXpmaTZjOWJ1cWt6Z2oxZHVwcnJiMWFnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l5JbspfwZ0yjHjlJ0K/giphy.webp)
-.image-credit[
+.credit[
 Image by [xponentialdesign](https://giphy.com/xponentialdesign) via [GIPHY](https://giphy.com/gifs/earth-planet-americas-l5JbspfwZ0yjHjlJ0K)
 ]
 
@@ -24,7 +24,7 @@ Image by [xponentialdesign](https://giphy.com/xponentialdesign) via [GIPHY](http
 ---
 
 background-image: url(https://images.unsplash.com/photo-1620662736427-b8a198f52a4d)
-.image-credit[
+.credit[
 Image by [Tingey Injury Law Firm](https://unsplash.com/@tingeyinjurylawfirm) via [Unsplash](https://unsplash.com/photos/brown-concrete-statue-of-man-9SKhDFnw4c4)
 ]
 
@@ -38,7 +38,7 @@ Image by [Tingey Injury Law Firm](https://unsplash.com/@tingeyinjurylawfirm) via
 ---
 
 background-image: url(https://images.unsplash.com/photo-1665690399850-036127c5da17)
-.image-credit[
+.credit[
 Image by [Google DeepMind](https://unsplash.com/@googledeepmind) via [Unsplash](https://unsplash.com/photos/a-white-cube-with-blue-squares-4sRFTaQSM8Q)
 ]
 
@@ -108,7 +108,7 @@ class: impact
 ---
 
 background-image: url(https://images.unsplash.com/photo-1503901813544-0b22efb6ba5b)
-.image-credit[
+.credit[
 Image by [CHUTTERSNAP](https://unsplash.com/@chuttersnap) via [Unsplash](https://unsplash.com/photos/white-wooden-cd-rack-inside-the-room-q3o7xqYQtes)
 ]
 
@@ -201,7 +201,7 @@ Image by [CHUTTERSNAP](https://unsplash.com/@chuttersnap) via [Unsplash](https:/
 ---
 
 background-image: url(https://images.unsplash.com/photo-1633060395285-a47f811d5a52)
-.image-credit[
+.credit[
 Image by [Alexey Demidov](https://unsplash.com/@alexeydemidov) via [Unsplash](https://unsplash.com/photos/a-bird-sitting-on-top-of-a-barbed-wire-fence-o9WMtUgPmQE)
 ]
 
@@ -412,7 +412,7 @@ Cloudflare
 ---
 
 background-image: url(https://images.unsplash.com/photo-1655890006065-edefcd764af6)
-.image-credit[
+.credit[
 Image by [D koi](https://unsplash.com/@dkoi) via [Unsplash](https://unsplash.com/photos/a-white-sphere-with-a-black-background-GQJY4UPR21U)
 ]
 
@@ -429,7 +429,7 @@ Image by [D koi](https://unsplash.com/@dkoi) via [Unsplash](https://unsplash.com
 ---
 
 background-image: url(https://images.unsplash.com/photo-1661362290679-c7da7ff5ee5b)
-.image-credit[
+.credit[
 Image by [Nik](https://unsplash.com/@helloimnik) via [Unsplash](https://unsplash.com/photos/background-pattern-I8Fs5De-5uQ)
 ]
 
@@ -461,97 +461,100 @@ Image by [Nik](https://unsplash.com/@helloimnik) via [Unsplash](https://unsplash
 
 ---
 
+.credit[
+Table from [Risk Matrix](https://en.wikipedia.org/wiki/Risk_matrix) via [Wikipedia](https://en.wikipedia.org)
+]
+
 ## 風險矩陣 Risk Matrix
 
-.col-6[
+.col-5[
 * 發生可能性 Likelihood
 * 嚴重程度 Harm severity
 ]
-.col-6[
+.col-7[
 <table class="wikitable" align="right">
-<caption>Risk Matrix via <a href="https://en.wikipedia.org/wiki/Risk_matrix">Wikipedia</a>
-</caption>
 <tbody><tr>
-<th rowspan="2">Likelihood
+<th rowspan="2">
 </th>
 <th colspan="4">Harm severity
 </th></tr>
 <tr>
-<th>Minor
+<td>Minor
+</td>
+<td>Marginal
+</td>
+<td>Critical
+</td>
+<td>Catastrophic
+</td></tr>
+<tr>
+<td>Certain
+</td>
+<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
+</td>
+<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
+</td>
+<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
+</td>
+<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
+</td></tr>
+<tr>
+<td>Likely
+</td>
+<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
+</td>
+<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
+</td>
+<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
+</td>
+<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
+</td></tr>
+<tr>
+<td>Possible
+</td>
+<td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
+</td>
+<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
+</td>
+<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
+</td>
+<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
+</td></tr>
+<tr>
+<td>Unlikely
+</td>
+<td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
+</td>
+<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
+</td>
+<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
+</td>
+<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
+</td></tr>
+<tr>
+<td>Rare
+</td>
+<td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
+</td>
+<td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
+</td>
+<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
+</td>
+<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
+</td></tr>
+</tr>
+<th>Likelihood
 </th>
-<th>Marginal
-</th>
-<th>Critical
-</th>
-<th>Catastrophic
+<th colspan="4">
 </th></tr>
-<tr>
-<th>Certain
-</th>
-<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
-</td>
-<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
-</td>
-<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
-</td>
-<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
-</td></tr>
-<tr>
-<th>Likely
-</th>
-<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
-</td>
-<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
-</td>
-<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
-</td>
-<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
-</td></tr>
-<tr>
-<th>Possible
-</th>
-<td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
-</td>
-<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
-</td>
-<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
-</td>
-<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
-</td></tr>
-<tr>
-<th>Unlikely
-</th>
-<td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
-</td>
-<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
-</td>
-<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
-</td>
-<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
-</td></tr>
-<tr>
-<th>Rare
-</th>
-<td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
-</td>
-<td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
-</td>
-<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
-</td>
-<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
-</td></tr>
-<tr>
-<th>Eliminated
-</th>
-<td colspan="4" data-sort-value="K0" style="background:#dff;vertical-align:middle;text-align:center;" class="table-no">Eliminated
-</td></tr></tbody>
+</tbody>
 </table>
 ]
 
 ---
 
 background-image: url(https://images.unsplash.com/photo-1453086428362-264c1f1d47f9)
-.image-credit[
+.credit[
 Image by [Danist Soh](https://unsplash.com/@danist07) via [Unsplash](https://unsplash.com/photos/fVZa3IkNrwQ)
 ]
 
@@ -667,9 +670,19 @@ class: impact
 
 ---
 
+## 稜鏡計畫 PRISM
+
+.col-5[
+[Government Surveillance](https://youtu.be/XEVlyP4_11M) 17:25~
+
+Last Week Tonight 2015.04.06
+
+（字幕 by [《姆奈》MKnight](https://mkhere.blogspot.com/2015/05/lwt-surveillance.html)）
+]
+.col-7[
 <iframe 
-  width="1100" 
-  height="450" 
+  width="600" 
+  height="400" 
   src="https://amara.org/embedder-widget-iframe/?data={%22hide_subtitle_me%22:true,%22hide_logo%22:true,%22resizable%22:true,%22video_id%22:%22zbKS6b92Ew0C%22,%22initial_language%22:%22zh-tw%22,%22show_subtitles_default%22:true,%22noanalytics%22:true,%22embed_on_amara%22:true,%22amara_embed%22:true}" 
   frameborder="0" 
   allow="accelerometer; 
@@ -679,15 +692,22 @@ class: impact
     picture-in-picture" 
   allowfullscreen>
 </iframe>
-
-.small[
-[Government Surveillance: Last Week Tonight](https://youtu.be/XEVlyP4_11M) 2015.04.06 / 字幕 by [《姆奈》MKnight](https://mkhere.blogspot.com/2015/05/lwt-surveillance.html) 17:25~
 ]
 
 ---
 
+## 劍橋分析 Cambridge Analytica
+
+[《個資風暴：劍橋分析事件》數據是強大的武器，能改變對世界的認知](https://www.inside.com.tw/feature/documentary-and-digital-world/23967-the-great-hack-review)
+
+INSIDE 2021.06.23
+
+> 根據《個資風暴：劍橋分析事件》片中，劍橋分析蒐集下每個美國選民都有五千個數據點，幫助分析團隊建立完整的個性模型，而個性影響行為，有了使用者立體的數位資料庫後，就可進一步以不同的策略來影響他們的行為。2016 年的美國總統大選就是劍橋分析所操弄，一次完美又經典的勝利。違背所有專家預測以及政治先例，讓川普順利從不被看好到打贏選戰，再再證實數據的盜用不只是虛擬世界的偷竊，而是直接地影響了我們所生存的現實世界。
+
+---
+
 background-image: url(https://images.unsplash.com/photo-1495714096525-285e85481946)
-.image-credit[
+.credit[
 Image by [Siarhei Horbach](https://unsplash.com/@srhhrbch) via [Unsplash](https://unsplash.com/photos/white-box-security-camera-on-wall-xJc--frJbuw)
 ]
 
@@ -701,7 +721,7 @@ Image by [Siarhei Horbach](https://unsplash.com/@srhhrbch) via [Unsplash](https:
 
 class: impact
 background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGk5M3E2Z200Z2RscThmZHJoenk2ejBqc2VsOWt4bWg3bWxhZ3U4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Va6MuZFI95flfYNMNs/giphy.webp)
-.image-credit[
+.credit[
 Image by [Xbox](https://giphy.com/xbox) via [GIPHY](https://giphy.com/gifs/xbox-gaming-xbox-series-x-sbos-Va6MuZFI95flfYNMNs)
 ]
 
