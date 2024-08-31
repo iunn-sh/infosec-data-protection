@@ -241,6 +241,26 @@ class: impact
 
 ---
 
+## 定義？
+
+[認識資訊安全](https://www.redhat.com/zh-tw/topics/security)
+
+Red Hat 2018.03.19
+
+> 「資訊安全」為一總稱，涵蓋了網路、網際網路、端點、API、雲端、應用程式以及容器等各項與網路有關的安全機制，藉由建立一套互相配合運作的資訊安全系統、解決方案和策略，以共同保護您的數位資料。
+
+---
+
+## 定義？
+
+[什麼是資訊安全 (資安)？](https://www.microsoft.com/zh-tw/security/business/security-101/what-is-information-security-infosec)
+
+Microsoft
+
+> 「資訊安全」是一組安全性程序和工具，可廣泛地保護敏感性企業資訊，以免發生使用不當、未經授權的存取、中斷或毀損等狀況。資安涵蓋實體和環境安全性、存取控制以及網路安全性。它通常包含 雲端存取安全性代理人（CASB）、驗證工具、端點偵測和回應（EDR）等技術，以及DevOps（DevSecOps）的安全性測試等等。
+
+---
+
 ## 虛擬主機
 
 [Google 企業雲端用戶也不放過！報告：86% 遭駭帳號被盜來挖礦](https://blockcast.it/2021/11/28/google-gcp-instances-being-hacked-to-mine-crypto/)
