@@ -1,4 +1,5 @@
 @use "sass:math";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&display=swap');
 
 // Theme
 // ---------------------------------------------------------------------------
@@ -14,9 +15,9 @@ $code-background  : #F8F8F8;
 $overlay          : transparentize(#000, .5);
 $font-size        : 28px;
 $font-size-impact : 128px;
-$font             : 'Helvetica Neue', 'Helvetica', 'Arial', 'LiHei Pro', 'Heiti TC', 'Microsoft JhengHei', sans-serif;
-$font-title       : Arial, Helvetica, sans-serif;
-$font-fixed       : 'Consolas', 'Liberation Mono', 'Menlo', 'Courier', monospace;
+$font             : 'Noto Sans TC', Arial, Helvetica, sans-serif;
+$font-title       : 'Noto Sans TC', Arial, Helvetica, sans-serif;
+$font-fixed       : 'Lucida Console', Monaco, monospace;
 $margin           : 20px;
 $iframe-scale     : 1.5;
 
