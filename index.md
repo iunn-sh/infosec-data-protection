@@ -347,6 +347,11 @@ Cloudflare
 
 ---
 
+background-image: url(https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6)
+.credit[
+Image by [Oleg Laptev](https://unsplash.com/@snowshade) via [Unsplash](https://unsplash.com/photos/white-concrete-wall-7jQh3EiS8Bs)
+]
+
 ## 案例分析 Case Study 🗺️
 
 .col-6[
@@ -553,9 +558,9 @@ Table from [Risk Matrix](https://en.wikipedia.org/wiki/Risk_matrix) via [Wikiped
 
 ---
 
-background-image: url(https://images.unsplash.com/photo-1453086428362-264c1f1d47f9)
+background-image: url(https://images.unsplash.com/photo-1570747408017-38b4c5959378)
 .credit[
-Image by [Danist Soh](https://unsplash.com/@danist07) via [Unsplash](https://unsplash.com/photos/fVZa3IkNrwQ)
+Image by [BRUNO CERVERA](https://unsplash.com/@brunocervera) via [Unsplash](https://unsplash.com/photos/white-painted-window-4pxBik5ewx0)
 ]
 
 ## 案例進一步分析 Case Study, Further 🛡️
