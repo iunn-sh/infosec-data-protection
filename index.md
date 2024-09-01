@@ -23,9 +23,9 @@ Image by [xponentialdesign](https://giphy.com/xponentialdesign) via [GIPHY](http
 
 ---
 
-background-image: url(https://images.unsplash.com/photo-1620662736427-b8a198f52a4d)
+background-image: url(https://images.unsplash.com/photo-1574585046135-3fb8de1d82ab)
 .credit[
-Image by [Tingey Injury Law Firm](https://unsplash.com/@tingeyinjurylawfirm) via [Unsplash](https://unsplash.com/photos/brown-concrete-statue-of-man-9SKhDFnw4c4)
+Image by [Brando Makes Branding](https://unsplash.com/@brandomakesbranding) via [Unsplash](https://unsplash.com/photos/pile-of-white-printing-papers-v9PwPnt4ji0)
 ]
 
 ## 開始之前 Expectation Check 🔰
@@ -347,9 +347,9 @@ Cloudflare
 
 ---
 
-background-image: url(https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6)
+background-image: url(https://images.unsplash.com/photo-1580934174026-8142803ebb5b)
 .credit[
-Image by [Oleg Laptev](https://unsplash.com/@snowshade) via [Unsplash](https://unsplash.com/photos/white-concrete-wall-7jQh3EiS8Bs)
+Image by [Paper Textures](https://unsplash.com/@inthemakingstudio) via [Unsplash](https://unsplash.com/photos/yellow-sticky-notes-on-white-wall-Vq1FQ_uNppw)
 ]
 
 ## 案例分析 Case Study 🗺️
@@ -558,9 +558,9 @@ Table from [Risk Matrix](https://en.wikipedia.org/wiki/Risk_matrix) via [Wikiped
 
 ---
 
-background-image: url(https://images.unsplash.com/photo-1570747408017-38b4c5959378)
+background-image: url(https://images.unsplash.com/photo-1678846851807-3fab5c774d14)
 .credit[
-Image by [BRUNO CERVERA](https://unsplash.com/@brunocervera) via [Unsplash](https://unsplash.com/photos/white-painted-window-4pxBik5ewx0)
+Image by [Kier in Sight Archives](https://unsplash.com/@kierinsightarchives) via [Unsplash](https://unsplash.com/photos/a-bunch-of-colorful-pieces-of-paper-on-a-white-surface-nNWb8lN1bqw)
 ]
 
 ## 案例進一步分析 Case Study, Further 🛡️
@@ -734,7 +734,7 @@ Image by [Xbox](https://giphy.com/xbox) via [GIPHY](https://giphy.com/gifs/xbox-
 
 |           |                                                                                       |
 | --------: | :------------------------------------------------------------------------------------ |
-| Markdown  | [sinedied/backslide](https://github.com/sinedied/backslide)                           |
 | Github    | [iunn-sh/infosec-data-protection](https://github.com/iunn-sh/infosec-data-protection) |
+| Markdown  | [sinedied/backslide](https://github.com/sinedied/backslide)                           |
 
 
