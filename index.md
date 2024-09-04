@@ -472,39 +472,25 @@ Table from [Risk Matrix](https://en.wikipedia.org/wiki/Risk_matrix) via [Wikiped
 
 ## 風險矩陣 Risk Matrix
 
-.col-5[
-* 發生可能性 Likelihood
-* 嚴重程度 Harm severity
-]
-.col-7[
-<table class="wikitable" align="right">
+<table class="wikitable" align="center">
 <tbody><tr>
 <th rowspan="2">
 </th>
-<th colspan="4">Harm severity
+<th colspan="4">嚴重程度 Harm severity
 </th></tr>
 <tr>
-<td>Minor
+<td style="text-align:center">極低<br>Minor
 </td>
-<td>Marginal
+<td style="text-align:center">低<br>Marginal
 </td>
-<td>Critical
+<td style="text-align:center">中度<br>Moderate
 </td>
-<td>Catastrophic
+<td style="text-align:center">顯著<br>Critical
+</td>
+<td style="text-align:center">災難性<br>Catastrophic
 </td></tr>
 <tr>
-<td>Certain
-</td>
-<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
-</td>
-<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
-</td>
-<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
-</td>
-<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
-</td></tr>
-<tr>
-<td>Likely
+<td style="text-align:right">確定會 Certain&nbsp;
 </td>
 <td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
 </td>
@@ -512,21 +498,41 @@ Table from [Risk Matrix](https://en.wikipedia.org/wiki/Risk_matrix) via [Wikiped
 </td>
 <td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
 </td>
-<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
+<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Extreme
+</td>
+<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Extreme
 </td></tr>
 <tr>
-<td>Possible
+<td style="text-align:right">很有可能 Likely&nbsp;
+</td>
+<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
+</td>
+</td>
+<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
+</td>
+<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
+</td>
+<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
+</td>
+<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Extreme
+</td></tr>
+<tr>
+<td style="text-align:right">可能 Possible&nbsp;
 </td>
 <td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
 </td>
 <td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
 </td>
+<td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
+</td>
 <td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
 </td>
-<td data-sort-value="K5" style="background:#faa;vertical-align:middle;text-align:center;" class="table-failure">Very high
+<td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
 </td></tr>
 <tr>
-<td>Unlikely
+<td style="text-align:right">不太可能 Unlikely&nbsp;
+</td>
+<td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
 </td>
 <td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
 </td>
@@ -537,7 +543,9 @@ Table from [Risk Matrix](https://en.wikipedia.org/wiki/Risk_matrix) via [Wikiped
 <td data-sort-value="K4" style="background:#fc8;vertical-align:middle;text-align:center;" class="table-depends">High
 </td></tr>
 <tr>
-<td>Rare
+<td style="text-align:right">罕見 Rare&nbsp;
+</td>
+<td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
 </td>
 <td data-sort-value="K2" style="background:#cfc;vertical-align:middle;text-align:center;" class="table-yes2">Low
 </td>
@@ -548,13 +556,12 @@ Table from [Risk Matrix](https://en.wikipedia.org/wiki/Risk_matrix) via [Wikiped
 <td data-sort-value="K3" style="background:#fe8;vertical-align:middle;text-align:center;" class="table-partial">Medium
 </td></tr>
 </tr>
-<th>Likelihood
+<th>發生可能性 Likelihood
 </th>
 <th colspan="4">
 </th></tr>
 </tbody>
 </table>
-]
 
 ---
 
