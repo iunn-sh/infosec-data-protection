@@ -31,9 +31,8 @@ Image by [Brando Makes Branding](https://unsplash.com/@brandomakesbranding) via 
 ## 開始之前 Expectation Check 🔰
 
 * 主題：聯想到的關鍵字
-* 許願
-  * 對什麼面向有興趣
-  * 希望結束時帶走什麼
+* 許願：對什麼面向有興趣
+* 目標：希望結束時帶走什麼
 
 ---
 
@@ -119,6 +118,11 @@ Image by [CHUTTERSNAP](https://unsplash.com/@chuttersnap) via [Unsplash](https:/
 
 ---
 
+background-image: url(https://images.unsplash.com/photo-1495841020177-1919ede29bd8)
+.credit[
+Image by [Scott Webb](https://unsplash.com/@scottwebb) via [Unsplash](https://unsplash.com/photos/minimal-background-photo-with-white-lines-traveling-along-walls-_JpQfgcCa2o)
+]
+
 ## 意見調查 Survey 📋
 
 .col-3[
@@ -142,7 +146,7 @@ Image by [CHUTTERSNAP](https://unsplash.com/@chuttersnap) via [Unsplash](https:/
 
 ---
 
-## 個人資料 @ 個人資料保護法
+## 個人資料 @ 個人資料保護法 ↔️
 
 個人資料保護法 §2 (1) 
 
@@ -151,6 +155,19 @@ Image by [CHUTTERSNAP](https://unsplash.com/@chuttersnap) via [Unsplash](https:/
 個人資料保護法施行細則 §3
 
 > 本法第2條第1款所稱得以間接方式識別，指保有該資料之公務或非公務機關僅以該資料不能直接識別，須與其他資料對照、組合、連結等，始能識別該特定之個人。
+
+--
+.center[
+.col-4[
+⭕
+]
+.col-4[
+❓
+]
+.col-4[
+❌
+]
+]
 
 ---
 
@@ -409,7 +426,7 @@ class: impact
 
 ---
 
-## 定義？
+## 定義：安全機制？
 
 [認識資訊安全](https://www.redhat.com/zh-tw/topics/security)
 
@@ -419,7 +436,7 @@ Red Hat 2018.03.19
 
 ---
 
-## 定義？
+## 定義：安全性程序和工具？
 
 [什麼是資訊安全 (資安)？](https://www.microsoft.com/zh-tw/security/business/security-101/what-is-information-security-infosec)
 
@@ -445,15 +462,6 @@ Microsoft
 
 > 據Google透露，資安團隊觀察到惡意行為者在受感染的雲端實例中進行加密貨幣挖礦，而且在最近被入侵的50個GCP實例中，竟有多達86%的帳號隨後被用於執行加密貨幣挖礦；也就是說，駭客將從挖礦中獲利，但被盜的受害者仍需為GCP服務付費。
 
----
-
-## 購物網站
-
-[國內個資外洩詐騙案頻傳，2021年報案件數劇增，誠品書店、東森購物與王品集團最嚴重](https://www.ithome.com.tw/news/149057)
-
-iThome 2022.01.25
-
-> 國內個資外洩引發的詐騙問題激增！刑事警察局公布2021年全年前5大高風險賣場名單，分別是誠品書店、東森購物、蝦皮購物、婕洛妮絲、金石堂，光誠品書店就有940件、東森購物有868件，比往年高出不少。而王品集團旗下品牌的加總達587件，堪稱第三高，還有數十個公益慈善機構入榜，累計也有370件。
 
 ---
 
@@ -484,6 +492,50 @@ iThome 2022.01.25
 4Gamers 2024.06.28
 
 > 日本角川集團KADOKAWA今年6月初遭到網路攻擊，旗下官方網站、影片平台Niconico、購物網ebten（エビテン）等多站遭癱瘓超過一個月難以復原，而自稱犯案的駭客集團「BlackSuit」威脅角川若不交贖金，就要公開商業機密與大量個資。
+
+---
+
+## 冒名機關/企業
+
+[2024 年冒名詐騙報告書出爐！冒名電話與簡訊高達 300 萬筆，最新詐騙手法與防詐招數一次看](https://www.techbang.com/posts/118148-2024-impersonation-scam-report-released)
+
+T客邦 2024.09.12
+
+> …從去年至今年四月為止，冒名類型的高風險電話和簡訊高達近300萬筆，主要目標涵蓋政府機構與國營企業（健保局、戶政事務所、台電公司、郵局、台灣自來水公司、監理站等）、金融機構（國泰世華、富邦銀行、玉山銀行、遠東銀行、台新銀行等）、電商平台（生活市集、東森購物、OB 嚴選、蝦皮購物等）、電信公司（中華電信、台灣大哥大等）、影視場館（威秀影城、新光影城、in89 豪華影城、秀泰影城等），以及零售業者（鞋全家福、全聯、天藍小舖等）等，恐影響品牌商譽與外界觀感。
+
+---
+
+## 假裝親友
+
+[揪出300萬筆冒名電話、簡訊，公私機關都曾被仿冒](https://infosecu.technews.tw/2024/09/09/scam-dtatw/)
+
+T客邦 2024.09.09
+
+> 冒名電話詐騙的話術多元、手法不斷翻新，商品促銷、繳費逾期、急難捐款都是常見的手法。而有別於傳統電話詐騙，詐騙集團也開始利用AI技術，只需幾秒對話便可AI生成並複製特定對象的聲音，進一步使得冒名的電話詐騙更為逼真，使得民眾的財務與個人資料外洩風險更加擴大。
+
+---
+
+## 當「眼見」不能「為憑」
+
+.col-5[
+[認識Deepfake防範假訊息](https://youtu.be/VEgGSbFWjb8)
+
+國科會科技辦公室 2022.01.25
+]
+.col-7[
+<iframe 
+  width="600" 
+  height="400" 
+  src="https://www.youtube.com/embed/VEgGSbFWjb8" 
+  frameborder="0" 
+  allow="accelerometer; 
+    autoplay; 
+    encrypted-media; 
+    gyroscope; 
+    picture-in-picture" 
+  allowfullscreen>
+</iframe>
+]
 
 ---
 
@@ -558,6 +610,18 @@ Image by [Paper Textures](https://unsplash.com/@inthemakingstudio) via [Unsplash
 
 ---
 
+## 資安鐵三角 CIA Triad
+
+[什麼是資訊安全？](https://www.cloudflare.com/zh-tw/learning/security/what-is-information-security/)
+
+Cloudflare
+
+> 1. 機密性（Confidentiality）：指資料的隱私性，其目標是保護敏感和機密資訊免遭未經授權的存取。一些相關工具包括加密、存取控制和資料丟失預防。
+2. 完整性（Integrity）：指資訊的準確性和可靠性，旨在防止未經授權的篡改或修改。檔案權限、身分管理和稽核追蹤等工具有助於確保資料的完整性。
+3. 可用性（Availability）：確保資訊系統可用且可存取，避免代價高昂的停機或中斷。有助於確保資料可用性的一些保護措施包括系統更新、災難復原方案和業務連續性方案。
+
+---
+
 ## 資訊風險
 
 [資安的四個迷思及唯一解法](https://buttondown.com/tech_management_mindset/archive/zi-an-de-si-ge-mi-si-ji-wei-yi-jie-fa/)
@@ -610,6 +674,7 @@ Image by [D koi](https://unsplash.com/@dkoi) via [Unsplash](https://unsplash.com
 
 ## 攻擊手段（例）
 
+* DDoS
 * 可疑連結
   * 社群網站
   * LINE
@@ -653,6 +718,50 @@ Image by [Nik](https://unsplash.com/@helloimnik) via [Unsplash](https://unsplash
 
 --
 * 定期備份 Backup
+
+---
+
+## Do Your Part, Be Cyber Smart
+
+.col-5[
+[資訊安全月影片](https://youtu.be/bUY7DGaukTw)
+
+AIT美國在台協會 2022.10.19
+]
+.col-7[
+<iframe 
+  width="600" 
+  height="400" 
+  src="https://www.youtube.com/embed/bUY7DGaukTw" 
+  frameborder="0" 
+  allow="accelerometer; 
+    autoplay; 
+    encrypted-media; 
+    gyroscope; 
+    picture-in-picture" 
+  allowfullscreen>
+</iframe>
+]
+
+---
+
+## 過猶不及
+
+[資安不只是 IT 的責任！老闆沒有這 3 個作為，別怪員工上駭客的當](https://www.managertoday.com.tw/columns/view/65873)
+
+經理人 2022.10.19
+
+> 防範「內賊」並不是唯一行動準則，解決資訊使用上「規範」和「人性」之間的衝突才是終極目標。曾經發生過另一個案例：某客戶主管擔心系統登入安全性，要求員工頻繁更換密碼，且每組密碼皆須符合高複雜度。結果主管自己因為記憶困難，便將多組密碼寫在便條紙上。我無奈問他：這不等於是把鑰匙放在門鎖旁邊嗎？
+
+---
+
+## 恰如其分
+
+[資安反被資安誤](https://www.ithome.com.tw/voice/164909)
+
+iThome 2024.09.09
+
+> 單就資安領域而言，相信很多人都聽說「資安鐵三角（CIA Triad）」的概念，C代表Confidentiality（機密性），I代表Integrity（完整性）、A代表Availability（可用性），我們必須要意識到控制的**手段**與**目的**，以及所**要保護的對象**，不能毫無控制、疏於防範，但也不能為了安全而過度控制或不當控制，導致處處受限、動輒得咎的困局。
 
 ---
 
@@ -790,6 +899,26 @@ class: impact
 
 ---
 
+## 手機剪貼簿
+
+[iPhone新版系統iOS 14揭露抖音偷存取使用者資訊](https://www.pourquoi.tw/intlnews-nasaoa-200624-0630-3/)
+
+報呱 2020.07.01
+
+> 蘋果在2020年6月22日WWDC 2020發表全新的iOS 14系統 ，其中新的隱私透明功能意外抓出包括抖音（TikTok）在內等幾款App會偷讀取用戶的資訊。抖音會每隔幾次點擊就檢查手機剪貼簿中的內容，可能導致使用者的密碼、帳號、個資等資訊外洩。抖音母公司字節跳動（ByteDance）曾表示會計劃停止檢查剪貼簿，但沒有給出確切的修改日期。
+
+---
+
+## 消費紀錄
+
+[勿至不明網站下載財政部統一發票兌獎APP，以免個資遭竊](https://www.dot.gov.tw/singlehtml/ch26?cntId=8bcb85ab210e4bafa4b256373ca70357)
+
+財政部賦稅署 2021.08.27
+
+> 財政部賦稅署表示，近來發現有未經合法授權之網站提供民眾下載財政部統一發票兌獎APP，為避免民眾個人資料遭不明網站竊取之風險，該署籲請民眾，務必自財政部合法授權上架之官方軟體商店（App Store或Google Play）下載，以保護個人資料安全。
+
+---
+
 ## 掃地機器人
 
 [把家電變間諜？亞馬遜買下掃地機器人iRobot的背後盤算](https://www.businessweekly.com.tw/international/blog/3010394)
@@ -799,6 +928,21 @@ class: impact
 > 亞馬遜購併iRobot，是它的第四大購併，原因無他，正是為了數據。畢竟，iRobot的掃地機器人Roomba雖然長期是亞馬遜電商網站上的熱賣商品，但最近一季財報，該公司表示因為競爭激烈，營收下降30％。但，iRobot在掃地機器人市場裡市佔第一，破千萬戶住家會使用它的機器人打掃，等於能觀察千萬戶住家的內部狀況。
 
 ---
+
+## 語音蒐集
+
+[技術商利用竊聽推送廣告，Facebook、Google都是客戶](https://www.4gamers.com.tw/news/detail/67076/facebook-google-use-mic-to-lesson-and-push-ads)
+
+4Gamers 2024.09.06
+
+> 外媒404 Media找到了一份Cox Media Group（CMG）的宣傳簡報，內容為利用手機以及麥克風，即時收集環境的語音與使用行為，並利用AI分析出對話內容，以此對方可能感興趣的廣告，並且稱 Facebook、Google、Amazon 都是客戶之一。…讓程式在用戶不知情的情況下，進行幕後進行資料蒐集，這難道不違法嗎？這點CMG曾經在一篇已經刪除，但被保存下來的文章稱行為「完全合法」，原因是當用戶下載App並對用戶須知按下同意後，裡面就已經包含願意接受程式積極性的語音蒐集行為。
+
+---
+
+background-image: url(https://images.unsplash.com/photo-1520529890308-f503006340b4)
+.credit[
+Image by [Rubén García](https://unsplash.com/@rubengargar) via [Unsplash](https://unsplash.com/photos/photography-of-white-concrete-stairs-R-wQExeiGrc)
+]
 
 ## 智慧型手機：兩大陣營 📱
 
@@ -812,6 +956,7 @@ class: impact
 * GPS定位
 * （族繁不及備載）
 ]
+--
 .col-6[
 權限/目的/合理？
 ]
@@ -874,9 +1019,9 @@ class: impact
 
 [先竊取，後解密：新型攻擊模式和量子運算帶來的威脅](https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000675493_EC73XIK2LZKWZU2JJB425)
 
-DIGITIMES
+DIGITIMES 2023.10.11
 
-> 量子電腦因其出色的計算能力而具有突破性的潛力、能分析或解決包括金融、化學、生物學等現今的難題，但這也帶來了資訊安全方面的巨大威脅。量子電腦將有能力輕易在短時間內破解公開金鑰加密系統，這使得現今用普遍用於連線資料加密的 TLS 協定將無法再保證其安全性，衍生出了當下正在發生的「先竊取，後解密（Harvest Now, Decrypt Later，簡稱 HNDL）」攻擊。有心人士只要先竊聽或盜取加密資訊並收集起來，未來一旦取得量子電腦的運算資源，即可馬上解密來獲取其中的機敏資訊。
+> 量子電腦因其出色的計算能力而具有突破性的潛力、能分析或解決包括金融、化學、生物學等現今的難題，但這也帶來了資訊安全方面的巨大威脅。量子電腦將有能力輕易在短時間內破解公開金鑰加密系統，這使得現今用普遍用於連線資料加密的TLS協定將無法再保證其安全性，衍生出了當下正在發生的「先竊取，後解密（Harvest Now, Decrypt Later，簡稱HNDL）」攻擊。有心人士只要先竊聽或盜取加密資訊並收集起來，未來一旦取得量子電腦的運算資源，即可馬上解密來獲取其中的機敏資訊。
 
 ---
 
