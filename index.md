@@ -972,6 +972,16 @@ class: impact
 
 ---
 
+## 掃地機器人
+
+[科沃斯掃地機器人爆安全漏洞！駭客可遠端監控使用者居家生活](https://www.techbang.com/posts/118689-ecovacs-sweeps-security-hackers-monitor)
+
+電腦王 2024.10.15
+
+> 全球最大的家用機器人公司科沃斯（Ecovacs）生產的掃地機器人被發現存在嚴重安全漏洞，駭客可輕易入侵並遠端操控機器人上的鏡頭進行監控，使用者居家生活暴露於風險之中。安全研究員Dennis Giese發現，只需透過藍牙連線，駭客就能在140公尺外控制多款科沃斯機器人，包括Deebot系列掃地機器人。駭客不僅可取得用戶的WiFi密碼和網路存取權，還能操控機器人上的鏡頭和麥克風。
+
+---
+
 ## Google 街景
 
 [德國過去13年居然都沒有Google實境街景？重視隱私的德國為什麼妥協？](https://www.inside.com.tw/article/34484-germany-for-13-years-without-google-street-view-privacy-conscious-germany-compromises)
