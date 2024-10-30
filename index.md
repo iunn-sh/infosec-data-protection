@@ -972,6 +972,16 @@ class: impact
 
 ---
 
+## Google 街景
+
+[德國過去13年居然都沒有Google實境街景？重視隱私的德國為什麼妥協？](https://www.inside.com.tw/article/34484-germany-for-13-years-without-google-street-view-privacy-conscious-germany-compromises)
+
+INSIDE 2024.03.15
+
+> 面對強烈的反對和法律壓力，Google不得不採取了一系列的應對策略，例如將街景中的圖像行人和車輛模糊化；也允許街景中的建築物屋主可以申請將其房屋樣貌從街景中移除、且圖像在2011年後就不再更新，而是2022年後才會再次拍攝新街景，才逐漸平息公眾的不滿，這也是為什麼德國這10多年來都沒有更新街景服務的主要原因，而這些保護車輛和行人隱私的做法後來也沿用到大部分的街景服務中。
+
+---
+
 ## 語音蒐集
 
 [技術商利用竊聽推送廣告，Facebook、Google都是客戶](https://www.4gamers.com.tw/news/detail/67076/facebook-google-use-mic-to-lesson-and-push-ads)
@@ -979,6 +989,16 @@ class: impact
 4Gamers 2024.09.06
 
 > 外媒404 Media找到了一份Cox Media Group（CMG）的宣傳簡報，內容為利用手機以及麥克風，即時收集環境的語音與使用行為，並利用AI分析出對話內容，以此對方可能感興趣的廣告，並且稱 Facebook、Google、Amazon 都是客戶之一。…讓程式在用戶不知情的情況下，進行幕後進行資料蒐集，這難道不違法嗎？這點CMG曾經在一篇已經刪除，但被保存下來的文章稱行為「完全合法」，原因是當用戶下載App並對用戶須知按下同意後，裡面就已經包含願意接受程式積極性的語音蒐集行為。
+
+---
+
+## 智慧電視
+
+[智慧型電視是「數位特洛伊木馬」？聯網電視廣告監控升級，隱私風險引發FTC介入調查](https://www.techbang.com/posts/118784-smart-tvs-are-a-digital-trojan-horse-connected-tv-ad)
+
+電腦王 2024.10.10
+
+> 根據數位民主中心（CDD）今天發表並提交給美國聯邦貿易委員會（FTC）的一份報告，串流媒體產業背後的公司，包括智慧型電視和串流媒體棒製造商以及串流媒體服務供應商，已經開發出一套「長期破壞隱私和消費者保護」的「監控系統」。報告的共同作者兼CDD執行董事Jeffrey Chester表示，旨在取悅廣告商的空前追蹤技術導致連網電視成為「隱私噩夢」，因此呼籲加強監管。
 
 ---
 
